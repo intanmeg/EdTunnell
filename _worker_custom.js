@@ -8,7 +8,7 @@ const listProxy = [
     { path: '/do2', proxy: '143.198.213.197' },
     { path: '/incapsula', proxy: '45.60.186.91' },
     { path: '/ovh', proxy: '15.235.162.49' },
-    { path: '/ind', proxy: '35.219.50.99' },
+    { path: '/indo', proxy: '35.219.50.99' },
 
 ];
 let proxyIP;
